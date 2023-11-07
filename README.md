@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dheeraj Darekar</h1>
 <h3 align="center">FullStack Developer</h3>
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate for **Projects**
 
